@@ -1,6 +1,7 @@
 # News App💻
 
 A simple News Application built using **Node.js**, **Express**, **EJS**, **Bootstrap**, and **NewsAPI** that allows users to search and display the latest news articles.
+
 ---  
 
 ## Features✨
@@ -71,6 +72,7 @@ npm start
 
 ## Contributing🤝
 Feel free to fork the repository and submit issues or pull requests. Contributions are welcome!
+
 ---
 
 ## Acknowledgements📒
