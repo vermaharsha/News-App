@@ -1,9 +1,9 @@
-# News App
+# News App💻
 
 A simple News Application built using **Node.js**, **Express**, **EJS**, **Bootstrap**, and **NewsAPI** that allows users to search and display the latest news articles.
 ---  
 
-## Features
+## Features✨
 
 - **Search Functionality**: Users can search for news articles by entering keywords.
 - **Display News**: Displays top headlines from various news sources.
@@ -11,7 +11,7 @@ A simple News Application built using **Node.js**, **Express**, **EJS**, **Boots
 
 --- 
 
-## Tech Stack
+## Tech Stack🚀
 
 - **Backend**: Node.js, Express
 - **Frontend**: EJS, Bootstrap
@@ -20,7 +20,7 @@ A simple News Application built using **Node.js**, **Express**, **EJS**, **Boots
 
 ---
 
-## Installation
+## Installation📝
 
 1. **Clone the repository:**
 ```bash
@@ -52,13 +52,13 @@ npm start
 
 ---
 
-## Usage
+## Usage🌟
 - Homepage: Displays the top headlines from multiple sources.
 - Search: Users can search for specific news articles by entering a keyword in the search bar.
 
 ---
 
-## Technologies Used
+## Technologies Used🚀
 - Node.js: Backend JavaScript runtime.
 - Express: Web framework for Node.js.
 - EJS: Template engine for rendering dynamic content.
@@ -69,11 +69,11 @@ npm start
 
 ---
 
-## Contributing
+## Contributing🤝
 Feel free to fork the repository and submit issues or pull requests. Contributions are welcome!
 ---
 
-## Acknowledgements
+## Acknowledgements📒
 - NewsAPI for providing the news data.
 - Bootstrap for styling the frontend.
 - Moment.js for date formatting.
