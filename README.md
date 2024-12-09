@@ -42,7 +42,7 @@ Start the app in development mode with `nodemon` (auto-restart on code changes):
 ```bash
 npm run dev
 ```
-This will start the app at `http://localhost:3000`.
+This will start the app at `http://localhost:4000`.
 
 5. **Run the App in Production Mode:**
 To start the app in production mode:
