@@ -65,3 +65,12 @@ Feel free to fork the repository and submit issues or pull requests. Contributio
 - NewsAPI for providing the news data.
 - Bootstrap for styling the frontend.
 - Moment.js for date formatting.
+
+## Contact📧
+
+For any inquiries, feedback, or suggestions, feel free to get in touch:
+
+**Harsha Verma**  
+[LinkedIn](https://www.linkedin.com/in/vermaharsha)  
+
+I’d ❤️ to hear from you!
